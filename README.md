@@ -14,7 +14,7 @@ Sistema em Java para gerenciamento e simulação de compras de computadores na p
 
 ## 🤖 Registro do Uso de Inteligência Artificial
 Conforme orientado nas instruções do exercício:
-* **Modelo Utilizado:** Gemini Notebook LM
+* **Modelo Utilizado:** Gemini Notebook
 * **Prompts e Suporte:**
   * Auxílio na estruturação das classes e entendimento das associações de OO (Agregação/Composição).
   * Esclarecimentos sobre formatação de dados no console Java (`printf`, `for-each`, tratamento de nulos).
